@@ -23,7 +23,7 @@ function Home() {
           href="https://github.com/YOUR_USERNAME/mern-portfolio"
           target="_blank"
           rel="noreferrer"
-          className="px-6 py-2 rounded-lg bg-[var(--color-accent)] text-black font-medium hover:opacity-90 transition"
+          className="px-6 py-2 rounded-lg bg-accent text-black font-medium hover:opacity-90 transition"
         >
           GitHub
         </a>
