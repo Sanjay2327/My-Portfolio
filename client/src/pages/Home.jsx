@@ -1,13 +1,15 @@
-// import Hero from "../components/Hero"; // if you made one
+import Hero from "../components/Hero";
 import About from "../sections/About";
 import Skills from "../sections/Skills";
+import Projects from "../sections/Projects";
 
 function Home() {
   return (
     <>
-      {/* Hero already here */}
+      <Hero />
       <About />
       <Skills />
+      <Projects />
     </>
   );
 }
